@@ -1,0 +1,5 @@
+total 1
+drwxr-xr-x 1 Anna 197121  0 Sep 14 14:58 ./
+drwxr-xr-x 1 Anna 197121  0 Sep 14 14:58 ../
+-rw-r--r-- 1 Anna 197121  0 Sep 14 15:01 file_list.txt
+-rw-r--r-- 1 Anna 197121 12 Sep 14 15:01 hello.txt
